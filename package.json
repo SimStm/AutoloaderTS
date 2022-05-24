@@ -2,7 +2,6 @@
 	"name": "autoloader-ts",
 	"version": "2.2.1",
 	"description": "A autoloader for typescript",
-	"main": "index.ts",
 	"author": "Patrick Hollweck <patrick-hollweck@gmx.de>",
 	"license": "MIT",
 	"keywords": [
